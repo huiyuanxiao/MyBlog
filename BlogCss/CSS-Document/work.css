@@ -1,0 +1,4 @@
+/* CSS Document */
+.blogitem ul.text p.titlep span{font-size:16px; font-weight:600; margin-left:5px;}
+.blogitem ul.text p.titlep img{border-radius:50px;}
+.blogitem ul.text p.time{float:right; margin-right:20px; color:#C33; line-height:15px; font-size:9px;}
